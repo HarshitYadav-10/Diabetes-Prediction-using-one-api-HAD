@@ -13,6 +13,8 @@
 ## Use of Intel's XGBoost
 > XGBoost is a scalable, distributed gradient boosting decision tree (GBDT) machine learning library. It provides parallel tree boosting and is the leading machine learning library for regression, classification, and ranking problems.
 
+## Training Model Using Intel Extension For XGBoost (XGB classifier)
+> The XGBClassifier is employed to enhance model accuracy and significantly improve wall time, signifying the tremendous performance and execution time benefits derived from the utilization of Intel's AI libraries. 
 ## Optimised Accuracy and Speed Results
 > By implementing oneAPI toolkit we get faster execution time and more accurate results. <br>
 > The accuracy increased by 2.59%. <br>
